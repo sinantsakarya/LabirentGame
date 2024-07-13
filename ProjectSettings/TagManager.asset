@@ -6,6 +6,28 @@ TagManager:
   tags:
   - Bullet
   - Player2
+  - book2
+  - fbook
+  - CUBE1
+  - CUBE2
+  - CUBE3
+  - CUBE4
+  - CUBE5
+  - CUBE6
+  - CUBE7
+  - CUBE8
+  - CUBE9
+  - CUBE10
+  - CUBE11
+  - CUBE12
+  - CUBE13
+  - CUBE14
+  - CUBE15
+  - CUBE16
+  - CUBE17
+  - CUBE18
+  - Interactable
+  - Door
   layers:
   - Default
   - TransparentFX
